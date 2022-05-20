@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/becca6758/book-search-engine/issues"
   },
-  "homepage": "https://github.com/becca6758/book-search-engine/blob/main/README.md",
+  "homepage": "https://mern-bk-search-engine-app.herokuapp.com/",
   "dependencies": {
     "if-env": "^1.0.4"
   },
