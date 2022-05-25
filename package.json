@@ -26,7 +26,8 @@
   "homepage": "https://mern-bk-search-engine-app.herokuapp.com/",
   "dependencies": {
     "debug": "^4.3.4",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "node": "^17.7.2"
   },
   "devDependencies": {
     "concurrently": "^5.2.0"
