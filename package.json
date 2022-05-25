@@ -5,6 +5,7 @@
   "main": "server/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"", 
     "start": "cd server && npm start",
     "start:prod": "cd server && npm start",
     "start:dev": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
@@ -24,6 +25,7 @@
   },
   "homepage": "https://mern-bk-search-engine-app.herokuapp.com/",
   "dependencies": {
+    "debug": "^4.3.4",
     "if-env": "^1.0.4"
   },
   "devDependencies": {

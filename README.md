@@ -1,3 +1,3 @@
 # book-search-engine
 
-https://mern-bk-search-engine-app.herokuapp.com/
+https://book-search-engine-mern-site.herokuapp.com/ 
