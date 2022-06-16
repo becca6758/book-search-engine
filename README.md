@@ -28,6 +28,11 @@ Please navigate to https://beccay-book-search-engine-app.herokuapp.com/.
 
 "https://drive.google.com/file/d/1bIxaUBY3gWQw01dkwW5Wixgi6MsDH6x6/view?usp=sharing"
 
+![Screenshot1](ss1.png "book-search-engine screenshot 1")
+![Screenshot2](ss2.png "book-search-engine screenshot 2")
+![Screenshot3](ss3.png "book-search-engine screenshot 3")
+![Screenshot4](ss4.png "book-search-engine screenshot 4")
+
 ## Credits
 
 Just Me
